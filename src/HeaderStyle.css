@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #000;
+}
+  header, ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}
+  header ul {
+    width: 20vw;
+    justify-content: space-between;
+    list-style: none;
+}
